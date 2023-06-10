@@ -1,11 +1,5 @@
 # Paper-de-Arquitecturas
 
-“El que se queda en un solo lenguaje se le cierra la mente”.
-
-“Aprender a desaprender”.
-
-Lenguajes recomendados por luis fernandez muñoz: “java,python,c#,javascript,typescript”
-
 ¿Para que usar arquitectura en un software?
 
 La pregunta la podriamos re plantear diciendo ¿Para que programo?, cuando nuestro enfoque tiene previsto una mayor escalabilidad en lo que estamos desarrollando siempre es necesario desarrollar un buen patron de diseño y bases para que en ese futuro previsto tengamos la posibilidad de escalarlo sin inconvenientes y mas tiempo del que se necesitaria.
